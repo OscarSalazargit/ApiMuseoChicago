@@ -1,0 +1,17 @@
+URL Base: https://api.artic.edu/api/v1/artworks
+Documentación: https://api.artic.edu/docs/
+
+Realizar una consulta simple para obtener obras:
+javascript
+Copiar código
+fetch("https://api.artic.edu/api/v1/artworks")
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+    const artwork = data.data[0]; // Primera obra
+    console.log(`Título: ${artwork.title}`);
+    console.log(`Autor: ${artwork.artist_title}`);
+    console.log(`Descripción: ${artwork.thumbnail.alt_text}`);
+  })
+  .catch(error => console.error("Error:", error));
+  

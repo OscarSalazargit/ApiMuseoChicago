@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Api de Arte</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <script src="assets/app.js" defer></script>
+</head>
+
+<body>
+    <!-- video -->
+     <video class="video" autoplay muted loop>
+        <source src="assets/img/video_gotas_pintura_V1.mp4" type="video/mp4">
+     </video>
+    <!-- template -->
+    <template id="elTemplate">
+        <slot class="obras">
+            <h3>
+                <slot name="title">Product Name</slot>
+            </h3>
+            <img slot name="imagen">0.00
+        </slot></img>
+        <p>
+            <slot name="description">Product description goes here.</slot>
+        </p>
+        <p>
+            <slot name="autor">0.00</slot>
+        </p>
+        <button class="btn-anadir">Lo quiero!</button>
+        </div>
+    </template>
+    <!-- Fin del template -->
+
+    <header class="header">
+        <h1 class="header__title">Museo de Chicago</h1>
+    </header>
+    <main class="obras" id="obras">
+        <div class="obra">
+            <h2 class="obra__titulo">La mona lisa</h2>
+            <img src="#" alt="obra de arte" class="obra__imagen">
+            <cite class="obra__autor">Pedro</cite>
+            <p class="obra__descripcion">Descripcion</p>
+        </div>
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,2233 @@
+{
+    "pagination": {
+      "total": 126325,
+      "limit": 12,
+      "offset": 0,
+      "total_pages": 10528,
+      "current_page": 1,
+      "next_url": "https://api.artic.edu/api/v1/artworks?page=2"
+    },
+    "data": [
+      {
+        "id": 244541,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/244541",
+        "is_boosted": false,
+        "title": "De ou par Marcel Duchamp ou Rrose Sélavy",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAGlVOG5fUZR1UJN3Zp+FX5GDcJODcJ2DcaCGaauYfpqQh6GSiKWaj66ZkbCXlrKZmL6xqb20rcCwqcC4scK7t8a9tsa+ucrDwdDFx9fQ0uXh3OHf4uPg4ePh4+bh4Ofi4ern5+no6urq7Ozq7ezr7e7u8e7w8vHy9QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwE2INPJ8QJ1JIYGAVAwXBoAgWCgCFkpE0xgcJBxR6YRxPDKmIAA7",
+          "width": 8627,
+          "height": 5204,
+          "alt_text": "A work made of brown leather valise with handle containing sixty-nine miniature replicas and printed reproductions and one original, sonate,1938, hand-colored collotype."
+        },
+        "main_reference_number": "2019.158",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1941,
+        "date_end": 1941,
+        "date_display": "1941",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Marcel Duchamp\nAmerican (b. France), 1887-1968",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "case (closed): 3 11/16 × 15 3/16 × 16 1/4\" (9.4 × 38.5 × 41.2 cm); overall (opened): 15 3/4 × 15 3/16 × 36 1/8\" (40 × 38.5 × 91.7 cm)",
+        "dimensions_detail": [],
+        "medium_display": "Brown leather valise with handle containing sixty-nine miniature replicas and printed reproductions and one original, Sonate,1938, hand-colored collotype",
+        "inscriptions": "pour Mary Reynolds ce no. 0 de vingt boîtes-en-valise contenant chacune 69 items et un original et par Marcel Duchamp",
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2019,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 28.7073,
+        "color": {
+          "h": 3,
+          "l": 34,
+          "s": 52,
+          "percentage": 0.012843145496492656,
+          "population": 55
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Mixed Media",
+        "artwork_type_id": 15,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 34316,
+        "artist_title": "Marcel Duchamp",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          34316
+        ],
+        "artist_titles": [
+          "Marcel Duchamp"
+        ],
+        "category_ids": [
+          "PC-824"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections"
+        ],
+        "term_titles": [
+          "20th Century",
+          "mixed media"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": null,
+        "classification_title": null,
+        "alt_classification_ids": [
+          "TM-10366"
+        ],
+        "classification_ids": [
+          "TM-10366"
+        ],
+        "classification_titles": [
+          "mixed media"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": null,
+        "alt_material_ids": [],
+        "material_ids": [],
+        "material_titles": [],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "404d6f9a-d9c7-a2b8-9968-56df7c0863d3",
+        "alt_image_ids": [
+          "f97c81a6-f39b-a022-cb2f-566072633e19",
+          "0c6636af-863e-c66c-26f4-38a81dea54fc",
+          "57affa83-19cf-5e04-1f59-3c337b11a581",
+          "45992f9e-ab1c-de67-423a-c2ccd41ecbbf",
+          "a964f1b4-3371-7b60-bbf9-7c814d4ca5e1"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.158"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "De ou par Marcel Duchamp ou Rrose Sélavy"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:52:50-06:00",
+        "updated_at": "2024-11-20T12:35:40-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 7713,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/7713",
+        "is_boosted": false,
+        "title": "Serving Knife",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhCAAFAPQAAHp1cnZ3eXZ4eXl5enp6enp6e3p7e3t7e3t7fHx8fH18fH19fYJ/foiCfYSCgYWDgYmFgo6LiZeQiJyUjKickQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAUcYEIUR7IkItAwiFCgyRNBk1MmxitRJ6okgYEiBAA7",
+          "width": 3000,
+          "height": 2000,
+          "alt_text": "A work made of silver and ivory."
+        },
+        "main_reference_number": "1958.198",
+        "has_not_been_viewed_much": false,
+        "boost_rank": null,
+        "date_start": 1788,
+        "date_end": 1817,
+        "date_display": "1788–1817",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "John Vernon\nAmerican, c. 1761–1842\nNew York",
+        "place_of_origin": "New York",
+        "description": null,
+        "short_description": null,
+        "dimensions": "34.4 × 6.2 × 2.4 cm (13 9/16 × 2 1/2 × 1 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 6,
+            "height": 34,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Silver and ivory",
+        "inscriptions": "Inscribed front, middle, on blade, engraved: \"ME\". Hallmarks back, middle, on blade, stamped: \"d [in a shield] [deagle's head in a shield] I•V [in a shield]\".",
+        "credit_line": "Gift of the Antiquarian Society through Mrs. Charles F. Glore",
+        "catalogue_display": null,
+        "publication_history": "Valerie Tvrdik, ed., \"The Antiquarian Society of The Art Institute of Chicago, The First One Hundred Years,\" Chicago, 1977, cat. 195.",
+        "exhibition_history": "Art Institute of Chicago, The Antiquarian Society: The First One Hundred Years, Apr. 23–June 19, 1977, cat. 195.",
+        "provenance_text": "Ellen Hixon Glore (1894-1973) (Mrs Charles F. Glore), Lake Forest, IL, by 1958; given to the Art Institute through the Antiquarian Society, 1958.",
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 21,
+        "fiscal_year": 1958,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 8.4796,
+        "color": {
+          "h": 7,
+          "l": 31,
+          "s": 2,
+          "percentage": 0.008231911956535505,
+          "population": 39
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Metalwork",
+        "artwork_type_id": 35,
+        "department_title": "Arts of the Americas",
+        "department_id": "PC-3",
+        "artist_id": 37147,
+        "artist_title": "John Vernon",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          37147
+        ],
+        "artist_titles": [
+          "John Vernon"
+        ],
+        "category_ids": [
+          "PC-3"
+        ],
+        "category_titles": [
+          "Arts of the Americas"
+        ],
+        "term_titles": [
+          "utensil for serving food",
+          "silver",
+          "servingware",
+          "metal-cutting",
+          "18th Century",
+          "silver",
+          "utensil",
+          "american decorative arts",
+          "american arts",
+          "decorative arts",
+          "Monograms",
+          "eating",
+          "dining",
+          "ivory",
+          "carving",
+          "19th century"
+        ],
+        "style_id": "TM-13379",
+        "style_title": "18th Century",
+        "alt_style_ids": [
+          "TM-13203"
+        ],
+        "style_ids": [
+          "TM-13379",
+          "TM-13203"
+        ],
+        "style_titles": [
+          "18th Century",
+          "19th century"
+        ],
+        "classification_id": "TM-11773",
+        "classification_title": "utensil for serving food",
+        "alt_classification_ids": [
+          "TM-161",
+          "TM-51",
+          "TM-2190",
+          "TM-2191",
+          "TM-1678"
+        ],
+        "classification_ids": [
+          "TM-11773",
+          "TM-161",
+          "TM-51",
+          "TM-2190",
+          "TM-2191",
+          "TM-1678"
+        ],
+        "classification_titles": [
+          "utensil for serving food",
+          "silver",
+          "utensil",
+          "american decorative arts",
+          "american arts",
+          "decorative arts"
+        ],
+        "subject_id": "TM-12527",
+        "alt_subject_ids": [
+          "TM-12437",
+          "TM-12676",
+          "TM-12076"
+        ],
+        "subject_ids": [
+          "TM-12527",
+          "TM-12437",
+          "TM-12676",
+          "TM-12076"
+        ],
+        "subject_titles": [
+          "servingware",
+          "Monograms",
+          "eating",
+          "dining"
+        ],
+        "material_id": "TM-2436",
+        "alt_material_ids": [
+          "TM-2442"
+        ],
+        "material_ids": [
+          "TM-2436",
+          "TM-2442"
+        ],
+        "material_titles": [
+          "silver",
+          "ivory"
+        ],
+        "technique_id": "TM-4166",
+        "alt_technique_ids": [
+          "TM-3863"
+        ],
+        "technique_ids": [
+          "TM-4166",
+          "TM-3863"
+        ],
+        "technique_titles": [
+          "metal-cutting",
+          "carving"
+        ],
+        "theme_titles": [],
+        "image_id": "c623a285-cd54-03f4-c32d-c8e1a6dbd8a6",
+        "alt_image_ids": [
+          "76c131b1-578f-26ac-44b7-eaaf92237fe7"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1958.198"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Serving Knife"
+            ],
+            "weight": 418,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-13T11:12:58-06:00",
+        "updated_at": "2024-11-20T12:35:40-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 249239,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/249239",
+        "is_boosted": false,
+        "title": "Secrets de la jungle",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEg5LVg2K0k7ME4/M148ME9BNFNFOFZJPGVDNJSJhJSQjZiUkKOalqGdmqKfm6Ohn6WhnKWhnaekn6akoaalo6mnpaqopKqpp6yqp6ysqq6tq7CwrrKxr7Oxr7SzsbS0srW0sre1tLa2tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYgQMqlwWhcHhvKAHGAaD4XAMHgFGEAgYLE89koEouNKAgAOw==",
+          "width": 0,
+          "height": 0,
+          "alt_text": "A work made of quarter morocco binding with brown paper; reptile skin inlays; author and title stamped in gold on spine; original paper covers bound in."
+        },
+        "main_reference_number": "2019.934",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1931,
+        "date_end": 1931,
+        "date_display": "Published 1931; rebound 1931-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by William Seabrook (American, 1884-1945)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "19 × 13 × 2.5 cm (7 1/2 × 5 1/8 × 1 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 13,
+            "height": 19,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Quarter morocco binding with brown paper; reptile skin inlays; author and title stamped in gold on spine; original paper covers bound in",
+        "inscriptions": "Inscription on cover: For Mary Reynolds --God Bless her. \"Hommage de l'auteur.\" W.B. Seabrook",
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 40,
+          "l": 54,
+          "s": 5,
+          "percentage": 0.00018206506984176724,
+          "population": 102
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-825",
+          "PC-824"
+        ],
+        "category_titles": [
+          "Women artists",
+          "Ryerson and Burnham Libraries Special Collections"
+        ],
+        "term_titles": [
+          "book",
+          "mixed media",
+          "20th Century",
+          "periodical cover"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [
+          "TM-2395"
+        ],
+        "classification_ids": [
+          "TM-11",
+          "TM-2395"
+        ],
+        "classification_titles": [
+          "book",
+          "periodical cover"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2527",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2527"
+        ],
+        "material_titles": [
+          "mixed media"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "fefddb57-3564-27f2-b80b-1095c4254398",
+        "alt_image_ids": [
+          "ec24429e-6448-4577-68e8-54aff728725b",
+          "b968cf90-a6ab-9900-98ec-a02dd196d476"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.934"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Secrets de la jungle"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:54:46-06:00",
+        "updated_at": "2024-11-20T12:35:39-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 241625,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/241625",
+        "is_boosted": false,
+        "title": "Les yeux fertiles",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHxnUX9tW4ZtUol1YYh3ZIp3ZJF/ZpN+Z5WEcJmZmJqamqadlKGemaWim6Cgn6ajnaiinaKhoKOjoqampaempaampqikoKimpK2rqKyrqqytrbSyr7GxsLKxsbKysbOysrS0s7S0tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEXk0WA4FJULwlCoRDSYASCAqYQ2BkEB9Al9IAvL5xMEADs=",
+          "width": 9152,
+          "height": 6864,
+          "alt_text": "A work made of full ostrich binding; decorated endpapers; author and title stamped in gold on spine label; original paper covers bound in."
+        },
+        "main_reference_number": "2019.933",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1936,
+        "date_end": 1936,
+        "date_display": "Published 1936; rebound 1936-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Paul Éluard (French, 1895-1952)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "12.5 × 19.3 × 2.5 cm (4 15/16 × 7 5/8 × 1 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 19,
+            "height": 12,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Full ostrich binding; decorated endpapers; author and title stamped in gold on spine label; original paper covers bound in",
+        "inscriptions": "Inscribed: à Georges Hugnet, un des rares poètes que j'aime et bien. Paul Eluard",
+        "credit_line": "Mary Reynolds Collection Fund, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 37,
+          "l": 63,
+          "s": 21,
+          "percentage": 0.00013212494090990594,
+          "population": 83
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-824",
+          "PC-825"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections",
+          "Women artists"
+        ],
+        "term_titles": [
+          "paper (fiber product)",
+          "book",
+          "20th Century",
+          "mixed media"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [],
+        "classification_ids": [
+          "TM-11"
+        ],
+        "classification_titles": [
+          "book"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [
+          "TM-2527"
+        ],
+        "material_ids": [
+          "TM-2982",
+          "TM-2527"
+        ],
+        "material_titles": [
+          "paper (fiber product)",
+          "mixed media"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "ea3e6b58-b2d8-0653-da58-212535d24cc0",
+        "alt_image_ids": [
+          "8f04916a-66b4-246d-e0b3-ecbc9d65d81d"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.933"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Les yeux fertiles"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:50:41-06:00",
+        "updated_at": "2024-11-20T12:35:39-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 241622,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/241622",
+        "is_boosted": false,
+        "title": "Rrose Sélavy",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAHFkUX5tVpFeRJJfRZFdRoh2Xp+JZqCJZKKKZaeXjqObkKeekqifk6uik6yila6lmKuhnKujnLGon6aloqempK+qo6yppqurq7CrpLGtqa+wr7SxrbKysbOysbOzs7W0srW1tQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQIoFA6lYJhpGgYBwXDwKAOHQuIAWAYLh4fFkIAnJ5hMEADs=",
+          "width": 0,
+          "height": 0,
+          "alt_text": "A work made of full leather binding with leather and board onlays; author and title stamped on front and back covers; decorated endpapers; black ink drawings on pastedowns; original paper covers bound in."
+        },
+        "main_reference_number": "2019.172",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1939,
+        "date_end": 1939,
+        "date_display": "Published 1939; rebound 1939-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Marcel Duchamp (American, born France, 1887-1968)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "17.1 × 12.2 × 1.1 cm (6 3/4 × 4 13/16 × 7/16 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 1,
+            "width": 12,
+            "height": 17,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Full leather binding with leather and board onlays; author and title stamped on front and back covers; decorated endpapers; black ink drawings on pastedowns; original paper covers bound in",
+        "inscriptions": "Inscription on half title page: Chère Mary, Marcel",
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": "https://archive.artic.edu/reynolds/bindings/p-E31937.php",
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2019,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 38,
+          "l": 48,
+          "s": 20,
+          "percentage": 0.0018589159614560624,
+          "population": 842
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-824",
+          "PC-825"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections",
+          "Women artists"
+        ],
+        "term_titles": [
+          "paper (fiber product)",
+          "book",
+          "20th Century",
+          "periodical cover"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [
+          "TM-2395"
+        ],
+        "classification_ids": [
+          "TM-11",
+          "TM-2395"
+        ],
+        "classification_titles": [
+          "book",
+          "periodical cover"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "8724189b-4e3f-bc41-f336-3a1c74e465ae",
+        "alt_image_ids": [
+          "78b88701-711b-3ffa-76ee-f0935d9afc64",
+          "25949ca9-5d49-19e0-65cd-8bf04005099a",
+          "6814377b-dd9f-d5c6-92dd-871e0edc0bc7",
+          "47853988-a5bc-58fd-d164-fd109d86f506"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.172"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Rrose Sélavy"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:50:19-06:00",
+        "updated_at": "2024-11-20T12:35:39-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 9958,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/9958",
+        "is_boosted": false,
+        "title": "Tablespoon",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBgAFAPMAAHl5eXp6ent7e3x8fH19fX9/f4CAgIGBgYKBgYKCgYSDg4SEhIWFhJqZl7GwrwAAACH5BAAAAAAALAAAAAAGAAUAAAQV0JhAxkBuARuOSoNACAHTFBYRGEUEADs=",
+          "width": 2812,
+          "height": 2250,
+          "alt_text": "A work made of silver."
+        },
+        "main_reference_number": "1959.152",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1790,
+        "date_end": 1804,
+        "date_display": "1790–1804",
+        "date_qualifier_title": "c.",
+        "date_qualifier_id": 60,
+        "artist_display": "Saunders Pitman (American, 1734–1804)\nProvidence, Rhode Island",
+        "place_of_origin": "Providence",
+        "description": null,
+        "short_description": null,
+        "dimensions": "23.6 × 4.5 × 3.1 cm (9 5/16 × 1 13/16 × 1 1/4 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 3,
+            "width": 4,
+            "height": 23,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Silver",
+        "inscriptions": null,
+        "credit_line": "Gift of Mrs. Hugh Bartlett",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Basic",
+        "internal_department_id": 21,
+        "fiscal_year": 1960,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": true,
+        "is_zoomable": true,
+        "max_zoom_window_size": -1,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 1.3326,
+        "color": {
+          "h": 42,
+          "l": 48,
+          "s": 0,
+          "percentage": 1.630508325644743,
+          "population": 9278
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Metalwork",
+        "artwork_type_id": 35,
+        "department_title": "Arts of the Americas",
+        "department_id": "PC-3",
+        "artist_id": 20685,
+        "artist_title": "Saunders Pitman",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          20685
+        ],
+        "artist_titles": [
+          "Saunders Pitman"
+        ],
+        "category_ids": [
+          "PC-3"
+        ],
+        "category_titles": [
+          "Arts of the Americas"
+        ],
+        "term_titles": [
+          "spoon",
+          "silver",
+          "silver",
+          "utensil",
+          "american decorative arts",
+          "american arts",
+          "decorative arts"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-11930",
+        "classification_title": "spoon",
+        "alt_classification_ids": [
+          "TM-161",
+          "TM-51",
+          "TM-2190",
+          "TM-2191",
+          "TM-1678"
+        ],
+        "classification_ids": [
+          "TM-11930",
+          "TM-161",
+          "TM-51",
+          "TM-2190",
+          "TM-2191",
+          "TM-1678"
+        ],
+        "classification_titles": [
+          "spoon",
+          "silver",
+          "utensil",
+          "american decorative arts",
+          "american arts",
+          "decorative arts"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2436",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2436"
+        ],
+        "material_titles": [
+          "silver"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "96d4fb3d-75b8-3c8c-4f23-286fc813481c",
+        "alt_image_ids": [
+          "57bc1659-8944-6eff-4692-40121983e76c"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "1959.152"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Tablespoon"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-13T13:43:28-06:00",
+        "updated_at": "2024-11-20T12:35:39-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 249238,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/249238",
+        "is_boosted": false,
+        "title": "Un rude hiver: Roman",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAACglHjAsIjMzLTg2Lj8/OkJBPUhHQFJRTFRTTI6Ni52dmqKhnqKhn6Sjoaalo6empKmopaqpp6yrqK2sqq+urLKxr7Kyr7SysLSzsLe2tLi3tbm4trq4trq5t728ur68uiH5BAAAAAAALAAAAAAHAAUAAAUdYBM5zBMxE1UMCBZVlRAYmZRpBHB42LYpiYZnEwIAOw==",
+          "width": 8643,
+          "height": 6482,
+          "alt_text": "A work made of full gray morocco binding; leather covered raised panel with glass thermometer inset on spine; author and title stamped in gold on spine; doublures with onlays; top edge gilt; original paper covers bound in."
+        },
+        "main_reference_number": "2019.931",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1939,
+        "date_end": 1939,
+        "date_display": "Published 1939; rebound 1939-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Raymond Queneau (French, 1903-1976)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "19 × 13 × 2.5 cm (7 1/2 × 5 1/8 × 1 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 13,
+            "height": 19,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Full gray morocco binding; leather covered raised panel with glass thermometer inset on spine; author and title stamped in gold on spine; doublures with onlays; top edge gilt; original paper covers bound in",
+        "inscriptions": null,
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 39,
+          "l": 46,
+          "s": 42,
+          "percentage": 3.5699033302307304e-6,
+          "population": 2
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-825",
+          "PC-824"
+        ],
+        "category_titles": [
+          "Women artists",
+          "Ryerson and Burnham Libraries Special Collections"
+        ],
+        "term_titles": [
+          "bookbinding",
+          "book",
+          "mixed media",
+          "20th Century",
+          "leather",
+          "gilt",
+          "periodical cover"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [
+          "TM-2395"
+        ],
+        "classification_ids": [
+          "TM-11",
+          "TM-2395"
+        ],
+        "classification_titles": [
+          "book",
+          "periodical cover"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2527",
+        "alt_material_ids": [
+          "TM-2454"
+        ],
+        "material_ids": [
+          "TM-2527",
+          "TM-2454"
+        ],
+        "material_titles": [
+          "mixed media",
+          "leather"
+        ],
+        "technique_id": "TM-4041",
+        "alt_technique_ids": [
+          "TM-14964"
+        ],
+        "technique_ids": [
+          "TM-4041",
+          "TM-14964"
+        ],
+        "technique_titles": [
+          "bookbinding",
+          "gilt"
+        ],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "7ce4e85f-d771-1427-93ef-04bf3874bd72",
+        "alt_image_ids": [
+          "5a7b4df8-9bf2-6151-1a13-09e3085da0db",
+          "76c62bb2-afdd-5dff-e47f-ed4ab2ffddd5"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.931"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Un rude hiver: Roman"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:54:39-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 249235,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/249235",
+        "is_boosted": false,
+        "title": "La septième face du dé: poëmes - découpages",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIeAbomCcJGHcJSKcpiMcJ+TdqSWeKWYfKibfqibf6mcfaqdfqqdgK6ggrOkhLOlhrWnhreoh7aniLaoiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDMIyRIATDRBjlIQhoQcTwgAOw==",
+          "width": 5665,
+          "height": 7660,
+          "alt_text": "A work made of paperbound book with photographically embossed cover, hand-sewn with silk in japanese style; original typography in letterpress in green with black; twenty photolithographs of paper collages (some in colors)."
+        },
+        "main_reference_number": "2020.40",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1936,
+        "date_end": 1936,
+        "date_display": "Paris: Éditions Jeanne Bucher, 1936",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Marcel Duchamp (American, born France, 1887-1968)\nWritten by Georges Hugnet (French, 1906-1974)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "30 × 21.5 × 1 cm (11 13/16 × 8 1/2 × 7/16 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 1,
+            "width": 21,
+            "height": 30,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Paperbound book with photographically embossed cover, hand-sewn with silk in Japanese style; Original typography in letterpress in green with black; twenty photolithographs of paper collages (some in colors)",
+        "inscriptions": "Inscribed in red ink: \"À Mary Reynolds\ncet object dont le livre\nest poétique\ntrès affecteusement\nGeorges Hugnet\"",
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": "HC",
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 27.831,
+        "color": {
+          "h": 55,
+          "l": 56,
+          "s": 81,
+          "percentage": 0.0008324488564233836,
+          "population": 8
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 34316,
+        "artist_title": "Marcel Duchamp",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          34316
+        ],
+        "artist_titles": [
+          "Marcel Duchamp"
+        ],
+        "category_ids": [
+          "PC-824"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections"
+        ],
+        "term_titles": [
+          "collage",
+          "letterpress printing",
+          "poetry",
+          "book",
+          "20th Century",
+          "collage",
+          "letterpress",
+          "paper",
+          "photo lithograph",
+          "typography",
+          "book",
+          "green ink",
+          "collage (technique)",
+          "embossing",
+          "typography"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [
+          "TM-391",
+          "TM-555",
+          "TM-145",
+          "TM-612",
+          "TM-14644"
+        ],
+        "classification_ids": [
+          "TM-11",
+          "TM-391",
+          "TM-555",
+          "TM-145",
+          "TM-612",
+          "TM-14644"
+        ],
+        "classification_titles": [
+          "book",
+          "collage",
+          "letterpress",
+          "paper",
+          "photo lithograph",
+          "typography"
+        ],
+        "subject_id": "TM-12502",
+        "alt_subject_ids": [],
+        "subject_ids": [
+          "TM-12502"
+        ],
+        "subject_titles": [
+          "poetry"
+        ],
+        "material_id": "TM-13861",
+        "alt_material_ids": [
+          "TM-13142",
+          "TM-2550"
+        ],
+        "material_ids": [
+          "TM-13861",
+          "TM-13142",
+          "TM-2550"
+        ],
+        "material_titles": [
+          "collage",
+          "book",
+          "green ink"
+        ],
+        "technique_id": "TM-3873",
+        "alt_technique_ids": [
+          "TM-3951",
+          "TM-4110",
+          "TM-3984"
+        ],
+        "technique_ids": [
+          "TM-3873",
+          "TM-3951",
+          "TM-4110",
+          "TM-3984"
+        ],
+        "technique_titles": [
+          "letterpress printing",
+          "collage (technique)",
+          "embossing",
+          "typography"
+        ],
+        "theme_titles": [],
+        "image_id": "828adf7c-804a-ec9a-c77b-d6b29b479e88",
+        "alt_image_ids": [
+          "9e79ec86-4088-7e4e-4b41-f50d6daf5afd",
+          "029dce03-d0cd-263b-c20a-83f5688186a7",
+          "8da03932-cbd9-02c1-aa9c-2e8cbd89a5e0"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2020.40"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "La septième face du dé: poëmes - découpages"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:54:21-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 244449,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/244449",
+        "is_boosted": false,
+        "title": "La machine à écrire: pièce en trois actes",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAKqpqaurq6yrq62trLGwsLGxsbe0sbW1tbi2sbi2s7m2s7q4tbu5try6t7u7u726uL69vb++vNHEn9LGntTHnc3Dr8fCts7FsMTBusLAv8jEvtHHsdfPvNjPvtvSwAAAACH5BAAAAAAALAAAAAAHAAUAAAUbYFAYCFKISyV1yFAsG+UhwtFcq3M4EWZpmUgIADs=",
+          "width": 8031,
+          "height": 6022,
+          "alt_text": "A work made of one-quarter vellum binding with cream paper sides repeatedly stamped with an upper case m in red and black; author and title stamped in gold on spine; original paper covers bound in."
+        },
+        "main_reference_number": "2019.175",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1941,
+        "date_end": 1941,
+        "date_display": "Published 1941; rebound 1941-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Jean Cocteau (French, 1889-1963)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "19.1 × 12.8 × 2.9 cm (7 9/16 × 5 1/16 × 1 3/16 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 12,
+            "height": 19,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "One-quarter vellum binding with cream paper sides repeatedly stamped with an upper case M in red and black; author and title stamped in gold on spine; original paper covers bound in",
+        "inscriptions": null,
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2019,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 44,
+          "l": 62,
+          "s": 35,
+          "percentage": 2.688022967791571e-5,
+          "population": 13
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-825",
+          "PC-824"
+        ],
+        "category_titles": [
+          "Women artists",
+          "Ryerson and Burnham Libraries Special Collections"
+        ],
+        "term_titles": [
+          "book",
+          "20th Century"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [],
+        "classification_ids": [
+          "TM-11"
+        ],
+        "classification_titles": [
+          "book"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": null,
+        "alt_material_ids": [],
+        "material_ids": [],
+        "material_titles": [],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "1aeae95f-dd41-ec68-cfc7-b24f0e6f4391",
+        "alt_image_ids": [
+          "0b3ddaef-cb3c-beb6-bbc3-00bebdfb089e"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.175"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "La machine à écrire: pièce en trois actes"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:51:43-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 244386,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/244386",
+        "is_boosted": false,
+        "title": "Saint Glinglin: précédé d'une nouvelle version de Gueule de Pierre et des Temps mêlés: Roman",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADM6DD03EEA+GUlCElhAFFtJIGNNJGdUNGpSNYaGeI+MfpKIeJKPg5GPhJGThZmUiJqWi5mYjKamoqSkpKenp6mloamnpKqppqqqqaqrqq+urLGxs7O0tra2uLm5ubm5u7q6uru8vr6+wQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEpGUrFkKJ2GAFF4bEKMwIHw4IgcAMMg4vFcEguFxhMEADs=",
+          "width": 0,
+          "height": 0,
+          "alt_text": "A work made of full green morocco binding; horizontal onlay across covers and spine; china teacup handle attached by onlay to spine; title stamped in gold on front cover; author stamped in gold on back cover; marbled endpapers; original paper covers bound in."
+        },
+        "main_reference_number": "2019.932",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1949,
+        "date_end": 1949,
+        "date_display": "Published 1949; rebound 1949-1950",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Raymond Queneau (French, 1903-1976)",
+        "place_of_origin": "Paris",
+        "description": null,
+        "short_description": null,
+        "dimensions": "20 × 15 × 3 cm (7 7/8 × 5 15/16 × 1 3/16 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 3,
+            "width": 15,
+            "height": 20,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Full green morocco binding; horizontal onlay across covers and spine; china teacup handle attached by onlay to spine; title stamped in gold on front cover; author stamped in gold on back cover; marbled endpapers; original paper covers bound in",
+        "inscriptions": null,
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2020,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 45,
+          "l": 48,
+          "s": 19,
+          "percentage": 6.604321160926851e-5,
+          "population": 37
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-824",
+          "PC-825"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections",
+          "Women artists"
+        ],
+        "term_titles": [
+          "book",
+          "bookbinding",
+          "mixed media",
+          "20th Century",
+          "book"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-10366",
+        "classification_title": "mixed media",
+        "alt_classification_ids": [
+          "TM-11"
+        ],
+        "classification_ids": [
+          "TM-10366",
+          "TM-11"
+        ],
+        "classification_titles": [
+          "mixed media",
+          "book"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-13142",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-13142"
+        ],
+        "material_titles": [
+          "book"
+        ],
+        "technique_id": "TM-4041",
+        "alt_technique_ids": [],
+        "technique_ids": [
+          "TM-4041"
+        ],
+        "technique_titles": [
+          "bookbinding"
+        ],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "628713f0-fc27-8ca0-968f-b71e0d9724ec",
+        "alt_image_ids": [
+          "415eb96c-cb4a-5514-ed49-d50183448ce1",
+          "16b085df-c95d-04cb-57b7-522cf09cb90e"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.932"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Saint Glinglin: précédé d'une nouvelle version de Gueule de Pierre et des Temps mêlés: Roman"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:51:00-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 241626,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/241626",
+        "is_boosted": false,
+        "title": "Ubu roi: Drame en cinq actes",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAF9BNXpAK3JENH5JOJJNOIVzbIV0bYZ3cId3cox+eaB7caF8cad+caaAdaSEeaKbmKaemrGema6pp6moqKqrqq6sq62trK+urbKurq+xsbCzs7SysbS1tbu1s7e4uL6/v7vAwL/BwcDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQIrFIsFUKJzEYdBwZDwHQ4Cx0IQKAAFBAfpsHpBIRxQEADs=",
+          "width": 9001,
+          "height": 6750,
+          "alt_text": "A work made of full tan morocco binding; boards die cut in the shape of u; onlays on spine in shape of b; black silk endleaves; crown stamped in gold on front endleaf; author stamped in gold on back endleaf; gilt edges; original paper covers bound in; binding designed by marcel duchamp."
+        },
+        "main_reference_number": "2019.180",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1935,
+        "date_end": 1935,
+        "date_display": "Published 1921; rebound 1934-1935",
+        "date_qualifier_title": "",
+        "date_qualifier_id": null,
+        "artist_display": "Mary Reynolds (American, 1891-1950)\nWritten by Alfred Jarry (French, 1873-1907)",
+        "place_of_origin": "Paris",
+        "description": "<p>This binding is perhaps the best known and most successful of the collaborations between Reynolds and Duchamp. On November 26, 1934, Duchamp visited his close friend Henri-Pierre Roché in Arago and excitedly reported on a binding that he had just designed for Alfred Jarry's Ubu Roi that Mary Reynolds was going to execute. Reynolds and Duchamp created out of the binding itself an extraordinarily clever pun. Both the front and back covers are cut-out &quot;U's&quot; covered in rich earth tones; the spine is a soft caramel B. The endpapers are made of black moiré silk. A gold crown, signifying the puppet king, is imprinted on the front flyleaf and visible through the front cut-out &quot;U&quot;. The author's name is imprinted in gold on the back flyleaf and is similarly visible through the back U. The binding spread open spells &quot;UBU.&quot;</p>\n<p>Reynolds must have spent considerable time executing this binding. We know from a letter from Duchamp, responding to a question from Katharine Kuh, that the binding was not completed until 1935. It is expertly and lovingly crafted. Both Duchamp and Reynolds were so pleased with the final work, that another copy was bound identically for the American collectors Walter and Louise Arensberg (Philadelphia Museum of Art).</p>\n",
+        "short_description": null,
+        "dimensions": "16.8 × 13.5 × 2.8 cm (6 5/8 × 5 3/8 × 1 1/8 in.)",
+        "dimensions_detail": [
+          {
+            "depth": 2,
+            "width": 13,
+            "height": 16,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Full tan morocco binding; boards die cut in the shape of U; onlays on spine in shape of B; black silk endleaves; crown stamped in gold on front endleaf; author stamped in gold on back endleaf; gilt edges; original paper covers bound in; binding designed by Marcel Duchamp",
+        "inscriptions": null,
+        "credit_line": "Mary Reynolds Collection, Ryerson & Burnham Libraries",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Cataloged",
+        "internal_department_id": 86,
+        "fiscal_year": 2019,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 0,
+        "color": {
+          "h": 9,
+          "l": 47,
+          "s": 5,
+          "percentage": 7.241993687944138e-5,
+          "population": 44
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Ryerson and Burnham Libraries Special Collections",
+        "department_id": "PC-824",
+        "artist_id": 21655,
+        "artist_title": "Mary Reynolds",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          21655
+        ],
+        "artist_titles": [
+          "Mary Reynolds"
+        ],
+        "category_ids": [
+          "PC-824",
+          "PC-825"
+        ],
+        "category_titles": [
+          "Ryerson and Burnham Libraries Special Collections",
+          "Women artists"
+        ],
+        "term_titles": [
+          "paper (fiber product)",
+          "book",
+          "20th Century",
+          "mixed media",
+          "periodical cover"
+        ],
+        "style_id": "TM-13130",
+        "style_title": "20th Century",
+        "alt_style_ids": [],
+        "style_ids": [
+          "TM-13130"
+        ],
+        "style_titles": [
+          "20th Century"
+        ],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [
+          "TM-10366",
+          "TM-2395"
+        ],
+        "classification_ids": [
+          "TM-11",
+          "TM-10366",
+          "TM-2395"
+        ],
+        "classification_titles": [
+          "book",
+          "mixed media",
+          "periodical cover"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": "TM-2982",
+        "alt_material_ids": [],
+        "material_ids": [
+          "TM-2982"
+        ],
+        "material_titles": [
+          "paper (fiber product)"
+        ],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [
+          "Women artists"
+        ],
+        "image_id": "b3c96941-023e-8fd7-25b3-e3a72e22c006",
+        "alt_image_ids": [
+          "fb182092-70fe-6b6e-0eb5-7e8797d6f80b",
+          "3b2098fa-fcae-4afe-8e45-c9ef164c396d",
+          "1b9e891e-80b3-6c2b-14ab-53326f57ccbe",
+          "a15f3b8f-ae1e-8e00-9a1c-8cf09c496c05"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2019.180"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Ubu roi: Drame en cinq actes"
+            ],
+            "weight": 1,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-19T13:50:47-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      },
+      {
+        "id": 199234,
+        "api_model": "artworks",
+        "api_link": "https://api.artic.edu/api/v1/artworks/199234",
+        "is_boosted": false,
+        "title": "Novyi Lef (New Lef)",
+        "alt_titles": null,
+        "thumbnail": {
+          "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFRXT2hsYG1vYm1wZG10Z3V2aXZ3a5NYRq5sVqt9aX6DdYWGeLCAbJKTgpaZh52fjp6gjamsmrW3o7i7qAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJQwzRQYkEQoziMUwIIcQwgAOw==",
+          "width": 1570,
+          "height": 2250,
+          "alt_text": "A work made of periodicals with photomontage wrappers; complete set of 24 nos. in 10 parts."
+        },
+        "main_reference_number": "2009.486",
+        "has_not_been_viewed_much": true,
+        "boost_rank": null,
+        "date_start": 1927,
+        "date_end": 1928,
+        "date_display": "1927–1928",
+        "date_qualifier_title": "Made",
+        "date_qualifier_id": 4,
+        "artist_display": "Aleksandr Rodchenko (Russian, 1891–1956) and\nVladimir Mayakovsky (Russian, 1893–1930)",
+        "place_of_origin": "Russia",
+        "description": null,
+        "short_description": null,
+        "dimensions": "22.8 × 15 cm (9 × 5 15/16 in.)",
+        "dimensions_detail": [
+          {
+            "depth": null,
+            "width": 15,
+            "height": 22,
+            "diameter": null,
+            "clarification": null
+          }
+        ],
+        "medium_display": "Periodicals with photomontage wrappers; complete set of 24 nos. in 10 parts",
+        "inscriptions": null,
+        "credit_line": "Gladys N. Anderson Fund",
+        "catalogue_display": null,
+        "publication_history": null,
+        "exhibition_history": null,
+        "provenance_text": null,
+        "edition": null,
+        "publishing_verification_level": "Web Basic",
+        "internal_department_id": 86,
+        "fiscal_year": 2009,
+        "fiscal_year_deaccession": null,
+        "is_public_domain": false,
+        "is_zoomable": false,
+        "max_zoom_window_size": 843,
+        "copyright_notice": null,
+        "has_multimedia_resources": false,
+        "has_educational_resources": false,
+        "has_advanced_imaging": false,
+        "colorfulness": 45.1154,
+        "color": {
+          "h": 57,
+          "l": 51,
+          "s": 11,
+          "percentage": 0.021701900340160105,
+          "population": 221
+        },
+        "latitude": null,
+        "longitude": null,
+        "latlon": null,
+        "is_on_view": false,
+        "on_loan_display": null,
+        "gallery_title": null,
+        "gallery_id": null,
+        "nomisma_id": null,
+        "artwork_type_title": "Book",
+        "artwork_type_id": 11,
+        "department_title": "Photography and Media",
+        "department_id": "PC-12",
+        "artist_id": 22054,
+        "artist_title": "Aleksandr Mikhailovich Rodchenko",
+        "alt_artist_ids": [],
+        "artist_ids": [
+          22054
+        ],
+        "artist_titles": [
+          "Aleksandr Mikhailovich Rodchenko"
+        ],
+        "category_ids": [
+          "PC-12"
+        ],
+        "category_titles": [
+          "Photography and Media"
+        ],
+        "term_titles": [
+          "book"
+        ],
+        "style_id": null,
+        "style_title": null,
+        "alt_style_ids": [],
+        "style_ids": [],
+        "style_titles": [],
+        "classification_id": "TM-11",
+        "classification_title": "book",
+        "alt_classification_ids": [],
+        "classification_ids": [
+          "TM-11"
+        ],
+        "classification_titles": [
+          "book"
+        ],
+        "subject_id": null,
+        "alt_subject_ids": [],
+        "subject_ids": [],
+        "subject_titles": [],
+        "material_id": null,
+        "alt_material_ids": [],
+        "material_ids": [],
+        "material_titles": [],
+        "technique_id": null,
+        "alt_technique_ids": [],
+        "technique_ids": [],
+        "technique_titles": [],
+        "theme_titles": [],
+        "image_id": "f360b2bf-e425-6d6b-b4d0-bc14bc94464f",
+        "alt_image_ids": [
+          "f38f8745-88b5-e79f-bd55-4beb1e288113",
+          "14c86dd5-a57b-0f51-0725-1c0fff7281c4",
+          "af21454a-cc4a-e2be-a51f-a7a2cbd8d8c7",
+          "da6ce425-7553-8bf7-0c21-35934f9e3119",
+          "5044e612-1c1e-bf4b-ee7f-131b0518a2c4",
+          "47136dec-f4e2-4e03-504a-da8fb88e4d60",
+          "937f790e-d50a-0758-7639-7a051438dd68"
+        ],
+        "document_ids": [],
+        "sound_ids": [],
+        "video_ids": [],
+        "text_ids": [],
+        "section_ids": [],
+        "section_titles": [],
+        "site_ids": [],
+        "suggest_autocomplete_all": [
+          {
+            "input": [
+              "2009.486"
+            ],
+            "contexts": {
+              "groupings": [
+                "accession"
+              ]
+            }
+          },
+          {
+            "input": [
+              "Novyi Lef (New Lef)"
+            ],
+            "weight": 78,
+            "contexts": {
+              "groupings": [
+                "title"
+              ]
+            }
+          }
+        ],
+        "source_updated_at": "2024-11-14T09:32:38-06:00",
+        "updated_at": "2024-11-20T12:35:38-06:00",
+        "timestamp": "2024-11-20T12:37:39-06:00"
+      }
+    ],
+    "info": {
+      "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+      "license_links": [
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://www.artic.edu/terms"
+      ],
+      "version": "1.10"
+    },
+    "config": {
+      "iiif_url": "https://www.artic.edu/iiif/2",
+      "website_url": "http://www.artic.edu"
+    }
+  }
